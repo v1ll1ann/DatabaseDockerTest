@@ -11,5 +11,4 @@ services:
       PMA_HOST: mysql.railway.internal       
       PMA_PORT: 3306                        
       PMA_USER: root                        
-      PMA_PASSWORD: cRcszYOEHwyMUvCLRvXvfKyyKSgnlehT  
-
+      PMA_PASSWORD: OyKSYLhjJdkWbncqOUPzUqnNVxAAiBVj
